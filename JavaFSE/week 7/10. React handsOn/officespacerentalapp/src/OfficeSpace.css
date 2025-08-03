@@ -1,0 +1,16 @@
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  vertical-align: top;
+  text-align: center;
+}
+
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}
